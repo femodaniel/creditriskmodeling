@@ -33,3 +33,6 @@ This project builds an end-to-end ML pipeline for estimating PD, LGD, EAD, and E
 3. Feature Engineering  
 4. Model Training (Logistic Regression, Random Forest, XGBoost)  
 5. Evaluation and Explainability (SHAP, ROC, Precision-Recall)
+
+   ![Pipeline Overview](docs/pipeline1.png)
+
