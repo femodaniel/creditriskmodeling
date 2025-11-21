@@ -1,4 +1,4 @@
-# Credit Risk Modelling | Calculation of PD, LGD, EAD and EL using Machine Learning in Python
+# Credit Risk Modelling & Optimization | Calculation of PD, LGD, EAD and EL using Machine Learning in Python
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/femidaniel/CreditRiskModelling.svg)](https://github.com/femidaniel/CreditRiskModelling/commits/main)
